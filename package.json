@@ -1,0 +1,27 @@
+{
+  "name": "workgroup_web",
+  "version": "1.0.0",
+  "description": "worcgroup_calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreiiy/WorkGroup_Web.git"
+  },
+  "keywords": [
+    "workgroup"
+  ],
+  "author": "Andrei Tatarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreiiy/WorkGroup_Web/issues"
+  },
+  "homepage": "https://github.com/Andreiiy/WorkGroup_Web#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
